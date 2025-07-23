@@ -1,6 +1,6 @@
 # Orchestra · AI Interview Assistant
 
-> Real‑time prompts, voice‑first practice, and screen‑aware guidance—all in one sleek assistant.
+> Real‑time prompts, Smart practice, and screen‑aware guidance—all in one sleek assistant.
 
 ---
 
