@@ -13,11 +13,11 @@ Orchestra is in private beta, but you can explore the fully‑functional web app
 
 ## ✨ Key Features
 
-- **Real-Time interaction & live transcript**— Run hands‑free mock or real sessions without typing.
+- **Real-Time interaction & live transcript**— Run hands‑free mock or real sessions.
 - **Conversation View**— Instant, on‑screen answers to every interviewer question.
 - **Vision View**— AI captures your active screen and explains code or UI in plain English.
-- **Combo Mode**— Blend voice inputs with live screen analysis for true hands‑free support.
-- **Multi‑screen support**— Use up to four monitors; switch focus with a click. :contentReference  
+- **Combo Mode**— Blend voice inputs with live screen analysis.
+- **Multi‑screen support**— Use up to four monitors; switch focus with a click. 
 - **Post‑session reports**— Automatic recap of strengths and improvement areas (practice mode).
 
 ---
