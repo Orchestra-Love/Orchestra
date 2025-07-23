@@ -27,13 +27,6 @@ A quick walkthrough video and screenshots are available on **[orchestra.love](ht
 
 ---
 
-## 🛠 Roadmap
-1. Open‑source the core copilot engine (ETA: next few weeks)  
-2. Release starter integrations (Chrome, Edge)  
-3. Add community‑driven persona templates  
-4. Publish an API for custom interview workflows
-
----
 
 ## 🤝 Contributing
 Code isn’t public yet, but discussion is open!  
@@ -41,9 +34,5 @@ Create an issue with feature ideas or questions and we’ll respond.
 
 ---
 
-## 📄 License
-TBD (will accompany the first public release).
-
----
 
 _© 2025 Orchestra. All product names, logos, and brands are property of their respective owners._
